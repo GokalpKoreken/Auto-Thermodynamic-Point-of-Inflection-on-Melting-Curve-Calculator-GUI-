@@ -1,12 +1,10 @@
 # Auto-Thermodynamic-Point-of-Inflection-on-Melting-Curve-Calculator-GUI-
 
-In thermodynamics, the melting curve is a graph that shows the relationship between the temperature and pressure at which a substance melts. The melting curve is usually plotted with temperature on the x-axis and pressure on the y-axis.
+
 
 The thermodynamic point of inflection on the melting curve is a point at which the slope of the curve changes. In other words, it is a point at which the curve changes from being concave upward to concave downward, or vice versa. This point of inflection is important because it marks a change in the behavior of the substance as it melts.
 
-For example, consider a substance that has a melting curve that is concave upward at low pressures and concave downward at high pressures. The point of inflection on this curve would mark the transition between these two regions. At pressures below the point of inflection, the substance would melt at lower temperatures as the pressure increases. At pressures above the point of inflection, the substance would melt at higher temperatures as the pressure increases.
-
-The point of inflection on the melting curve can also be used to determine the critical point of a substance, which is the highest temperature and pressure at which the substance can exist in a stable, liquid state. The critical point is typically located at or near the point of inflection on the melting curve.
+For example, consider a substance that has a melting curve that is concave upward till critical point and concave donward after the critical point . The point of inflection on this curve would mark the transition between these two regions. At temperatures below the point of inflection, the substance would melt at lower temperatures as the pressure increases. At pressures above the point of inflection, the substance would melt at higher temperatures as the pressure increases.
 
 Understanding the melting curve and the point of inflection can be important in a variety of applications, including the design of cryogenic systems and the optimization of industrial processes.
 
