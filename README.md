@@ -10,7 +10,7 @@ Understanding the melting curve and the point of inflection can be important in 
 
 To manage that this steps followed:
 1.Smoothing the data with moving avg filter 2.Determine where is the maximum slope difference on the curve 3.Cut till that part of curve 4.Fit a 10th order polynomal function and determine the inflection points of it 5.Cut the curve from the second last inflection point(this can be done because desired point is on the plateau.)
-6.Fit a Fourrier Series Function because the graph that left is almost a straight line and the best fit  possible can be achieved by using Fourrier Series. 7.Take the First and Second Derrivatives of the function that been fitted. 8.Find where those second derrivative does a zero-crossing. 9.Plot the results
+6.Fit a Fourrier Series Function because the graph that left is almost a straight line and the best fit  possible can be achieved by using Fourrier Series. 7.Take the First and Second Derrivatives of the function that been fitted. 8.Find where the second derrivative does a zero-crossing. 9.Plot the results
 
 
 
