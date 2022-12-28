@@ -14,7 +14,31 @@ To manage that this steps followed:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/112509269/209764170-882f1739-470d-46e3-bf7d-1272e6542192.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26,6 +50,18 @@ To manage that this steps followed:
 7.Take the First and Second Derrivatives of the function that been fitted.
 8.Find where those second derrivative does a zero-crossing.
 9.Plot the results
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
